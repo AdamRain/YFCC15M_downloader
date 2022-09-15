@@ -18,6 +18,5 @@ for i in tqdm(range(1,num_of_logs,1), position=0, desc="File", leave=False, colo
                 del_file_name = match.string.split(' ')[-2].replace('\"','')
                 try:
                     Image.open(del_file_name).convert('RGB')
-                    os.remove(del_file_name)
                 except:
-                    pass
+                    os.remove(del_file_name)
