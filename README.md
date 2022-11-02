@@ -17,15 +17,27 @@ We followed the dataset preparation process of [DeCLIP](https://github.com/Sense
 Dataset infos:
 
 - The dataset should contains 15,388,848 images.
-- We managed to crawl xxxx of them.
+- We managed to crawl 15,061,748 of them.
 - Total space occupied: XXXX G.
 
-Web Drive links: (todo)
+Web Drive links: 1/16(todo)
 
-original: [yfcc15m_clean_open_data.json]()
-
-our: [data(all in one file)](), filtered meta file (all in one file): [yfcc15m_clean.json]()
-
-our: [data(splited packages)](), filtered meta file (splited files): [jsons]()
-
+- [split_1](https://pan.baidu.com/s/1-vD-QpMkH0hVrApmXhnO3g?pwd=kn8w)
+- [split_2]()
+- [split_3]()
+- [split_4]()
+- [split_5]()
+- [split_6]()
+- [split_7]()
+- [split_8]()
+- [split_9]()
+- [split_10]()
+- [split_11]()
+- [split_12]()
+- [split_13]()
+- [split_14]()
+- [split_15]()
+- [split_16]()
 ---
+
+If the link fails, please leave a message in the issue.
