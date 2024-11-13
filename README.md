@@ -41,3 +41,4 @@ Web Drive links:
 ---
 
 If the link fails, please leave a message in the issue.
+2024-11-13 update: You may use the [bypy](https://github.com/houtianze/bypy) tools to download the files from Baidu Yun Web Drive.
